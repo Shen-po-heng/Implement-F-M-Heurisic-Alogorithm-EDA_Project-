@@ -6,9 +6,8 @@ Given a net-list for a circuit, partition the
 circuit to two subcircuits A and B so that the cut-set of subcircuits A and B is 
 minimized under the constraint of |size(A) -size(B)| < 0.01*n
 
-This program is to implement F-M Heurisic algorithm
-In the program,
-Cell and Net in the circuir are stroed by linking list separately.
+This program is to implement F-M Heurisic algorithm.
+In the program, Cell and Net in the circuir are stroed by linking list separately.
 User can input the number of Cell and Net, and also the info of Cell and Net.
 
 As for other functions
